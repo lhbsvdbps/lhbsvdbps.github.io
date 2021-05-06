@@ -44,6 +44,8 @@ Address: 185.199.109.153
 
 Created a `lhbsvdbps` GitHub account and this `lhbsvdbps.github.io` page.
 
+In GitHub Pages settings I've added a `http://docs.congon4tor.me/` custom domain.
+
 Go to http://docs.congon4tor.me/ to see the result.
 
 Thanks [@Cong4tor](https://twitter.com/Congon4tor)!
