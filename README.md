@@ -44,7 +44,8 @@ Address: 185.199.109.153
 
 Created a `lhbsvdbps` GitHub account and this `lhbsvdbps.github.io` page.
 
-In GitHub Pages settings I've added a `http://docs.congon4tor.me/` custom domain.
+In GitHub Pages settings I've added a `docs.congon4tor.me` custom domain
+which creates a `docs.congon4tor.me -> lhbsvdbps.github.io` CNAME record.
 
 Go to http://docs.congon4tor.me/ to see the result.
 
